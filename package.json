@@ -1,0 +1,36 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/igeligel/ndb-showcase/issues"
+  },
+  "description": "",
+  "devDependencies": {
+    "husky": "^2.2.0",
+    "jest": "^24.8.0",
+    "lint-staged": "^8.1.6",
+    "ndb": "^1.0.44",
+    "prettier": "^1.17.0"
+  },
+  "homepage": "https://github.com/igeligel/ndb-showcase#readme",
+  "keywords": [],
+  "license": "ISC",
+  "lint-staged": {
+    "*.{js,json}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "main": "index.js",
+  "name": "ndb-showcase",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igeligel/ndb-showcase.git"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "start:debug": "ndb node cli.js",
+    "test": "jest",
+    "test:debug": "ndb jest"
+  },
+  "version": "0.0.1"
+}
