@@ -1,6 +1,6 @@
-const add = (a,b) => {
-  debugger
-  return a + b
-}
+const add = (a, b) => {
+  debugger;
+  return a + b;
+};
 
-module.exports = add
+module.exports = add;
