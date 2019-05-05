@@ -2,7 +2,7 @@
 
 > A project to showcase project to show how to debug Node.js applications easily
 
-<a href="./License.md"><img src="https://img.shields.io/github/license/igeligel/ndb-showcase.svg" alt="badge of license" /></a>
+<a href="./LICENSE.md"><img src="https://img.shields.io/github/license/igeligel/ndb-showcase.svg" alt="badge of license" /></a>
 <a href="https://github.com/igeligel/ndb-showcase/pulls"><img src="https://img.shields.io/badge/PR-welcome-green.svg" alt="badge of pull request welcome" /></a>
 <a href="https://github.com/igeligel/ndb-showcase/stargazers"><img src="https://img.shields.io/github/stars/igeligel/ndb-showcase.svg?style=social&label=Stars" alt="badge of github star" /></a>
 
